@@ -1,0 +1,37 @@
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\bin\Debug\App.xbf
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\bin\Debug\BlankPage1.xbf
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\bin\Debug\MainPage.xbf
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\bin\Debug\Spider Task 2.Windows.xr.xml
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\bin\Debug\Spider Task 2.Windows.exe
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\bin\Debug\Spider Task 2.Windows.pdb
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\bin\Debug\resources.pri
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\bin\Debug\AppxManifest.xml
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\bin\Debug\Spider Task 2.Windows.build.appxrecipe
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\App.g.i.cs
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\App.g.cs
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\BlankPage1.g.i.cs
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\BlankPage1.g.cs
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\MainPage.g.i.cs
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\MainPage.g.cs
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\XamlTypeInfo.g.cs
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\App.xaml
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\App.xbf
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\XamlSaveStateFile.xml
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\BlankPage1.xaml
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\MainPage.xaml
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\BlankPage1.xbf
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\MainPage.xbf
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\Spider Task 2.Windows.exe
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\Spider Task 2.Windows.pdb
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\priconfig.xml
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\priconfig.xml.intermediate
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\layout.resfiles
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\layout.resfiles.intermediate
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\resources.resfiles
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\resources.resfiles.intermediate
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\pri.resfiles
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\pri.resfiles.intermediate
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\qualifiers.txt
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\qualifiers.txt.intermediate
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\ProjectArchitectures.txt

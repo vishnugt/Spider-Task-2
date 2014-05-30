@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SURENDIRAN</Machine>
+    <WindowsUser>Surendiran</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3eb27036-e0ab-4880-9bc6-8f3a2af4b032</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>66A7A19F2DEFCDF7A1D4DF86370E89399975F97146C3D77E2639565B3FFEDA1C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3eb27036-e0ab-4880-9bc6-8f3a2af4b032_1.0.0.0_neutral__w7ff6wpgn5b76</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3eb27036-e0ab-4880-9bc6-8f3a2af4b032_w7ff6wpgn5b76!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3eb27036-e0ab-4880-9bc6-8f3a2af4b032</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Surendiran</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-30T02:35:38.057</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\bin\Debug\Spider Task 2.Windows.exe">
+      <PackagePath>Spider Task 2.Windows.exe</PackagePath>
+      <Modified>2014-05-30T03:05:25.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-13T04:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-13T04:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-13T04:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-13T04:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-05-30T02:35:33.228</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\bin\Debug\BlankPage1.xbf">
+      <PackagePath>BlankPage1.xbf</PackagePath>
+      <Modified>2014-05-30T03:02:26.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-05-30T03:02:26.059</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\bin\Debug\Spider Task 2.Windows.xr.xml">
+      <PackagePath>Spider Task 2.Windows.xr.xml</PackagePath>
+      <Modified>2014-05-30T03:02:23.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\surendiran gt\documents\visual studio 2013\Projects\Spider Task 2\Spider Task 2\Spider Task 2.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-05-30T02:35:36.043</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
